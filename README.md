@@ -1,4 +1,4 @@
-This is an exercise realized in the context of the CS50 course granted by Harvard.\n
+This is an exercise realized in the context of the CS50 course granted by Harvard.
 Take a user input and calculate the grade level of a text.
 - The user inputs the text.
 - The program returns the grade level 
